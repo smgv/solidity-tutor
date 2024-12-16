@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.28; // version
+pragma solidity 0.8.24; // version
 // pragma solidity ^0.8.28  // stating version greater than given version
 // pragma solidity >=0.8.28 <0.9.0; // stating our version in between range 
 
